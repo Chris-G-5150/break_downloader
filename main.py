@@ -46,4 +46,4 @@ def download_files(url_to_download, directory):
 
 for path_to_download in links:
     # print(path_to_download)
-    download_files(path_to_download, '/home/breezus/Documents/breaks')
+    download_files(path_to_download, '***path')
